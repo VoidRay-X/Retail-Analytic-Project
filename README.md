@@ -7,6 +7,13 @@ This project focuses on leveraging point-of-sale (POS) data from a leading retai
 
 ---
 
+## 🌐 Interactive Dashboards & Applications
+Explore the live deployments of this project to see the predictive model and data insights in action:
+
+* **Executive Business Intelligence Dashboard:** [Power BI Service Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGVhNTNkZjgtYTNiYy00ZjE5LWJkMDQtN2YwNWNmM2YwNjE2IiwidCI6ImU4ZmJjNjdmLTQyN2MtNGU3Ni04MzJjLTc1M2U4OTA0YmQ4OCJ9&pageName=57ddfc8499680194f028) – Comprehensive cohort analysis, hospital resource KPIs, demographic trends, and diagnostic insights tailored for healthcare stakeholders and clinical managers.
+
+---
+
 ## 🏢 Business Context & Objectives
 The client seeks to transition toward a highly data-driven approach to optimize their sales and marketing operations. As the Analyst on this project, the core objectives include:
 * **Customer Insights:** Analyze customer segments, behavioral patterns, and customer satisfaction (CSAT) scores.
