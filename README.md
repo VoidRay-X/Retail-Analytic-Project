@@ -10,7 +10,7 @@ This project focuses on leveraging point-of-sale (POS) data from a leading retai
 ## 🌐 Interactive Dashboards & Applications
 Explore the live deployments of this project to see the predictive model and data insights in action:
 
-* **Executive Business Intelligence Dashboard:** [Power BI Service Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGVhNTNkZjgtYTNiYy00ZjE5LWJkMDQtN2YwNWNmM2YwNjE2IiwidCI6ImU4ZmJjNjdmLTQyN2MtNGU3Ni04MzJjLTc1M2U4OTA0YmQ4OCJ9&pageName=57ddfc8499680194f028) – Comprehensive cohort analysis, hospital resource KPIs, demographic trends, and diagnostic insights tailored for healthcare stakeholders and clinical managers.
+* **Executive Business Intelligence Dashboard:** [Power BI Service Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGVhNTNkZjgtYTNiYy00ZjE5LWJkMDQtN2YwNWNmM2YwNjE2IiwidCI6ImU4ZmJjNjdmLTQyN2MtNGU3Ni04MzJjLTc1M2U4OTA0YmQ4OCJ9&pageName=57ddfc8499680194f028) – Comprehensive customer cohorts, store resource KPIs, geographic demographic trends, and category performance insights tailored for retail stakeholders and sales managers.
 
 ---
 
